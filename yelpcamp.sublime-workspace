@@ -1,0 +1,823 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"conden",
+				"condenseThis"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"cur",
+				"curWord"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"bacgroun",
+				"background-color"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"tod",
+				"todoText"
+			],
+			[
+				"sq",
+				"squareClick"
+			],
+			[
+				"col",
+				"colors"
+			],
+			[
+				"num",
+				"numSquares"
+			],
+			[
+				"res",
+				"reset"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"re",
+				"remove"
+			],
+			[
+				"cl",
+				"classList"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"mode",
+				"modeButtons"
+			],
+			[
+				"q",
+				"querySelectorAll"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"nu",
+				"numSquares"
+			],
+			[
+				"picked",
+				"pickedColor"
+			],
+			[
+				"pick",
+				"pickColor"
+			],
+			[
+				"color",
+				"colors"
+			],
+			[
+				"picke",
+				"pickedColor"
+			],
+			[
+				"gener",
+				"generateRandomColors"
+			],
+			[
+				"Add",
+				"addEventListener"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"random",
+				"randomColor"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"change",
+				"changeColors"
+			],
+			[
+				"mess",
+				"messageDisplay"
+			],
+			[
+				"click",
+				"clickedColor"
+			],
+			[
+				"wi",
+				"winningScore"
+			],
+			[
+				"A",
+				"addEventListener"
+			],
+			[
+				"reset",
+				"resetButton"
+			],
+			[
+				"p1",
+				"p1Display"
+			],
+			[
+				"b",
+				"body"
+			],
+			[
+				"the",
+				"theArray"
+			],
+			[
+				"dele",
+				"deleteItem"
+			],
+			[
+				"list",
+				"listItems"
+			],
+			[
+				"new",
+				"newTodo"
+			],
+			[
+				"todo",
+				"todos"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"number",
+				"numberOne"
+			],
+			[
+				"total",
+				"totalUnitsFieldName"
+			],
+			[
+				"unit",
+				"unitsValue"
+			],
+			[
+				"units",
+				"unitsFieldName"
+			],
+			[
+				"chec",
+				"checkboxFieldName"
+			],
+			[
+				"get",
+				"getField"
+			],
+			[
+				"We",
+				"WeightedUnits1"
+			],
+			[
+				"W",
+				"WeightedCity1"
+			],
+			[
+				"last",
+				"lastName"
+			],
+			[
+				"fir",
+				"first"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"nav",
+				"navbar-nav"
+			],
+			[
+				"bo",
+				"Bootstrap"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"U",
+				"uppercase"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"min",
+				"minlength\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 2530,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/index.ejs",
+			"settings":
+			{
+				"buffer_size": 1052,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/landing.ejs",
+			"settings":
+			{
+				"buffer_size": 161,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/new.ejs",
+			"settings":
+			{
+				"buffer_size": 1018,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/partials/footer.ejs",
+			"settings":
+			{
+				"buffer_size": 19,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/partials/header.ejs",
+			"settings":
+			{
+				"buffer_size": 783,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/show.ejs",
+			"settings":
+			{
+				"buffer_size": 160,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package resource",
+				"PackageResourceViewer: Open Resource"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 113.0,
+		"history":
+		[
+			"ls",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/administrator/Documents/Coding/NodeWebApps/RESTfulBlogApp/views/index.ejs",
+		"/Users/administrator/Documents/Coding/NodeWebApps/RESTfulBlogApp/package.json",
+		"/Users/administrator/Documents/Coding/test.js",
+		"/Users/administrator/Downloads/MEAN Stack/mongodb-osx-x86_64-3.6.1/README",
+		"/Users/administrator/Documents/Coding/DailyProgrammer/319_CondensingSentences/index.html",
+		"/Users/administrator/Documents/Coding/DailyProgrammer/319_CondensingSentences/solution.js",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/Patatap/index.html",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/Patatap/assets/css/styles.css",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/Patatap/assets/css/circles.css",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/Patatap/circles.css",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/Patatap/circles.html",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/Patatap/js/myPaperScript.js",
+		"/Users/administrator/Library/Application Support/Sublime Text 3/Packages/HTML/HTML.sublime-syntax",
+		"/Users/administrator/Downloads/HTML.sublime-syntax2.yaml",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/Patatap/myPaperScript.js",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/ToDo/assets/css/todos.css",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/ToDo/assets/js/todos.js",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/ToDo/index.html",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/jqueryExercise.html",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/methods.html",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/colorGame.css",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/colorGame.js",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/colorGame.html",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/todo.css",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/todo.js",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/todo.html",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/ScoreKeeper.html",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/ScoreKeeper.js",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/ScoreKeeper.css",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/colorchange.js",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/colorchange.html",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/selector-exercise.html",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/forEach.js",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/arrays.html",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/list.js",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Solutions/ArrayProblemSetSolutions/solution.js",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/arrays.js",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/functions.js",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/list.html",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/functions.html",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/for.js",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/for.html",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/while.js",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/annoy.html",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/annoy.js",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/while.html",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/game.html",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/game.js",
+		"/Users/administrator/Google Drive/Google Drive Projects/Bonefide/PDFs/!CurrentForms/Talent Advice/JS/talent.js",
+		"/Users/administrator/Google Drive/Google Drive Projects/Bonefide/PDFs/!CurrentForms/Talent Advice/talent.js",
+		"/Users/administrator/Google Drive/Google Drive Projects/Bonefide/PDFs/!CurrentForms/Talent Advice/talent JS OLD.js",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/script.js",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/javas.html",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/purrfect.css",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/purrfect.html",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/image.css",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/image.html",
+		"/Users/administrator/Downloads/The Trial by Franz Kafka.mobi",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/navbar.html",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/basics.html",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/Blog1.css",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/Blog1.html",
+		"/Applications/Background Music.app/Contents/Resources/uninstall.sh",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/tictactoe.css",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/TicTacToe.html",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/photoportfolio.css",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/PhotoPortfolio.html",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Solutions/07_ImageBlog1/imageLinks.html",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/09_Selector_Exercise_Starter/selectors.css",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/09_Selector_Exercise_Starter/selectorsExercise.html",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Solutions/validation.html",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Solutions/inputs.html",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/scratch.css",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/scratch.html",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/rusty.html",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/Mine/PokemonTables.html",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/myLists.html",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/lists.html",
+		"/Users/administrator/Documents/Learn/Udemy/Web Developer Bootcamp/firstPage.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"urls",
+			"></",
+			"easy",
+			"age",
+			"else if (age < 21) {\n\tconsole.log(\"You can enter, but you cannot drink\");\n}",
+			"thumbnail",
+			"<img src=\"http://i.imgur.com/qK42fUu.jpg\">",
+			"http://i.imgur.com/qK42fUu.jpg",
+			"col-md-6",
+			"col-lg-4"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2530,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								388,
+								388
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "views/index.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1052,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1052,
+								1052
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/EJS 2/EJS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "views/landing.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 161,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								161,
+								161
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/EJS 2/EJS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "views/new.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1018,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1018,
+								1018
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/EJS 2/EJS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "views/partials/footer.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19,
+								19
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/EJS/EJS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "views/partials/header.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 783,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								783,
+								783
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "views/show.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								160,
+								160
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/EJS 2/EJS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "yelpcamp.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 131.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
