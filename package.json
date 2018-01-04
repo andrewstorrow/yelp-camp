@@ -12,6 +12,6 @@
     "body-parser": "latest",
     "ejs": "latest",
     "express": "latest",
-    "mongoose": "latest"
+    "mongoose": "^5.0.0-rc2"
   }
 }
