@@ -1,3 +1,8 @@
+//===============================================
+// Yelp Camp app.js
+//===============================================
+
+//Dependencies
 var express = require("express"),
     app = express(),
     bodyParser = require("body-parser"),
@@ -12,6 +17,8 @@ mongoose.connect("mongodb://localhost/yelp_camp")
       .catch(err => console.log(`Database connection error: ${err.message}`));
 app.use(bodyParser.urlencoded({extended: true}));
 app.set("view engine", "ejs");
+app.use(express.static(__dirname + "/public"));
+
 seedDB();
 
 //LANDING
